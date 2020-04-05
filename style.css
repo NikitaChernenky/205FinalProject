@@ -1,0 +1,13 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+
+    justify-content: center;
+}
+
+div {
+    position: absolute;
+    float: left;
+    margin-top: 650px;
+}
