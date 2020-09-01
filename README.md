@@ -3,7 +3,7 @@ Click to play - https://editor.p5js.org/nikasblack/full/yPz_0grzF
 
 Mykyta Chernenky (200367631) </br>
 Kyle Callander (200252132) </br>
-Group Project Write Up </br>
+<p align="center">Group Project Write Up </p>
 
 For our group project, we decided to make a top-down round-based survival shooter. The purpose of this game is to survive as long as you can. You are a doctor that is trying to get rid of the Corona Virus. The controls are fairly simple WASD or arrows to move, left mouse click to shoot, B to access buy menu/upgrades and Q to locate the nearest virus to you.  The buy menu consists of several things you can upgrade such as speed, damage output, armour, health and store currency capacity. Lastly, there are power-ups that can be dropped by the virus and picked up such as speed boost, invincibility and double damage. These are all the basic parts of our game. I will explain the game in more depth starting with the player, then go to the virus. Followed by the store and miscellaneous parts.</br></br>
 
